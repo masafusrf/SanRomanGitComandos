@@ -3,4 +3,4 @@
 
 2. cd examen && touch una/nombre.txt
 
-3. 
+3. cd examen/dos && cp ../una/nombre.txt ../tres/
