@@ -1,4 +1,4 @@
 1. mkdir examen
     cd examen && mkdir una dos tres
 
-2.
+2. cd examen && touch nombre.txt
